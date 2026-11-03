@@ -1,4 +1,4 @@
-# Bank Reconciliation Statement | January & February 2025
+# Bank Reconciliation Statement 
 
 ## Project Overview
 This project focuses on preparing Bank Reconciliation Statements (BRS) using Microsoft Excel. It compares ledger records with bank statement transactions for January and February 2025 to identify matching transactions and differences.
@@ -30,6 +30,14 @@ This project focuses on preparing Bank Reconciliation Statements (BRS) using Mic
 
 ## Conclusion
 This project provided practical exposure to bank reconciliation procedures and strengthened my understanding of accounting records and Excel-based financial analysis.
+
+## Project Files
+
+### January 2025
+[📥 Download January Bank Reconciliation Statement](https://github.com/Chiragas22/Bank-Reconciliation-Statement/blob/main/Bank%20Reconciliation%20statement-January.xlsx)
+
+### February 2025
+[📥 Download February Bank Reconciliation Statement](https://github.com/Chiragas22/Bank-Reconciliation-Statement/blob/main/Bank%20Reconciliation%20statement-February.xlsx)
 
 ---
 **Project Category:** Accounting & Finance  
