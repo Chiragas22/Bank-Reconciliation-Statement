@@ -1,37 +1,35 @@
 # Bank Reconciliation Statement | January & February 2025
 
 ## Project Overview
-This project focuses on preparing Bank Reconciliation Statements (BRS) using Microsoft Excel. It compares the company's ledger records with bank statement transactions for January and February 2025 to identify and match corresponding transactions.
+This project focuses on preparing Bank Reconciliation Statements (BRS) using Microsoft Excel. It compares ledger records with bank statement transactions for January and February 2025 to identify matching transactions and differences.
+
+## Project Files
+
+### January 2025
+[📥 Download January Bank Reconciliation Statement](January/Bank%20Reconciliation%20statement-January.xlsx)
+
+### February 2025
+[📥 Download February Bank Reconciliation Statement](February/Bank%20Reconciliation%20statement-February.xlsx)
 
 ## Objectives
 - Compare ledger records with bank statement transactions.
-- Identify matching financial transactions.
+- Identify matching and unmatched transactions.
 - Understand differences between book records and bank records.
 - Improve practical accounting and Excel skills.
 
 ## Tools Used
 - Microsoft Excel
-- Excel formulas and transaction matching techniques
-- Bank Ledger and Bank Statement data
-
-## Project Files
-- **January 2025:** Bank Reconciliation Statement – January.
-- **February 2025:** Bank Reconciliation Statement – February.
-
-## Workbook Structure
-Each monthly workbook contains two worksheets:
-1. **Ledger:** Contains transaction dates, descriptions, debit, credit, amounts and voucher numbers.
-2. **Bank Statement:** Contains bank transaction details and corresponding ledger information for reconciliation.
+- Excel formulas
+- Transaction matching techniques
 
 ## Key Learning Outcomes
 - Practical understanding of bank reconciliation.
-- Comparing cash book and bank statement records.
-- Transaction matching using date and amount.
+- Comparing ledger and bank statement records.
+- Identifying transaction differences.
 - Handling financial data using Microsoft Excel.
-- Improving accuracy and attention to detail in accounting.
 
 ## Conclusion
-This project provided practical exposure to bank reconciliation procedures and helped strengthen my understanding of accounting records and Microsoft Excel.
+This project provided practical exposure to bank reconciliation procedures and strengthened my understanding of accounting records and Excel-based financial analysis.
 
 ---
 **Project Category:** Accounting & Finance  
