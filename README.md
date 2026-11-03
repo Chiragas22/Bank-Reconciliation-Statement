@@ -9,7 +9,7 @@ This project focuses on preparing Bank Reconciliation Statements (BRS) using Mic
 [📥 Download January Bank Reconciliation Statement](https://github.com/Chiragas22/Bank-Reconciliation-Statement/blob/main/Bank%20Reconciliation%20statement-January.xlsx)
 
 ### February 2025
-[📥 Download February Bank Reconciliation Statement](February/Bank%20Reconciliation%20statement-February.xlsx)
+[📥 Download February Bank Reconciliation Statement](https://github.com/Chiragas22/Bank-Reconciliation-Statement/blob/main/Bank%20Reconciliation%20statement-February.xlsx)
 
 ## Objectives
 - Compare ledger records with bank statement transactions.
