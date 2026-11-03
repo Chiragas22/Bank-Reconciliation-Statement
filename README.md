@@ -6,7 +6,7 @@ This project focuses on preparing Bank Reconciliation Statements (BRS) using Mic
 ## Project Files
 
 ### January 2025
-[📥 Download January Bank Reconciliation Statement](January/Bank%20Reconciliation%20statement-January.xlsx)
+[📥 Download January Bank Reconciliation Statement](Chiragas22/Bank-Reconciliation-Statement/blob/main/Bank%20Reconciliation%20statement-January.xlsx)
 
 ### February 2025
 [📥 Download February Bank Reconciliation Statement](February/Bank%20Reconciliation%20statement-February.xlsx)
